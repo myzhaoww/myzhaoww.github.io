@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+#logo-pic{
+    width: 55%;
+    
+    margin-left: 20%;
+}
+
+/******************* logo 与 目录 盒子 *******************/
+.logo{
+    float: left;
+    height: 8em;
+
+    background-color: #f7f7f7;
+
+    border-bottom: 3px solid tan;
+}
+
+.menu{
+    float: left;
+    width: 9.16%;
+    height: 3em;
+
+    text-align: center;
+    font-size: 16pt;
+    color: black;
+    background-color: #f7f7f7;
+
+    border-bottom: 3px solid tan;
+   
+    padding-top: 3em;
+    
+}
+.menu:hover{
+    background-color: rgb(217, 217, 255);
+
+}
