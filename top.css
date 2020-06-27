@@ -9,6 +9,9 @@ body{
 }
 
 /******************* logo 与 目录 盒子 *******************/
+#top{
+    height: 10em;
+}
 .logo{
     float: left;
     height: 8em;
@@ -20,7 +23,7 @@ body{
 
 .menu{
     float: left;
-    width: 9.16%;
+    width: 9.1%;
     height: 3em;
 
     text-align: center;
